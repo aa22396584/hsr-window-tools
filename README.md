@@ -1,5 +1,10 @@
 # HSR Window Tools / WindowPatcher v6
 
+> **Development home:** https://github.com/ImL1s/hsr-window-tools  
+> Please open issues and pull requests there.  
+> **Mirrors:** [Codeberg](https://codeberg.org/ImL1s/hsr-window-tools) · [GitLab](https://gitlab.com/aa22396584/hsr-window-tools)
+
+
 [![CI](https://github.com/ImL1s/hsr-window-tools/actions/workflows/ci.yml/badge.svg)](https://github.com/ImL1s/hsr-window-tools/actions/workflows/ci.yml)
 [![Release](https://github.com/ImL1s/hsr-window-tools/actions/workflows/release.yml/badge.svg)](https://github.com/ImL1s/hsr-window-tools/actions/workflows/release.yml)
 [![Latest Release](https://img.shields.io/github/v/release/ImL1s/hsr-window-tools?label=release)](https://github.com/ImL1s/hsr-window-tools/releases/latest)
