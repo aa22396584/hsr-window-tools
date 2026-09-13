@@ -8,6 +8,8 @@ https://github.com/aa22396584/hsr-window-tools
 [Codeberg](https://codeberg.org/ImL1s/hsr-window-tools)
 
 
+> **Why this GitHub home?** Public development moved here from [`ImL1s/hsr-window-tools`](https://github.com/ImL1s/hsr-window-tools) because that GitHub account is currently restricted (anonymous visitors get 404 on the profile and many assets). This is the same project. Please open Issues and Pull Requests here.
+
 [![CI](https://github.com/aa22396584/hsr-window-tools/actions/workflows/ci.yml/badge.svg)](https://github.com/aa22396584/hsr-window-tools/actions/workflows/ci.yml)
 [![Release](https://github.com/aa22396584/hsr-window-tools/actions/workflows/release.yml/badge.svg)](https://github.com/aa22396584/hsr-window-tools/actions/workflows/release.yml)
 [![Latest Release](https://img.shields.io/github/v/release/aa22396584/hsr-window-tools?label=release)](https://github.com/aa22396584/hsr-window-tools/releases/latest)
